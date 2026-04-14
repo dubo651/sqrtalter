@@ -9,10 +9,12 @@ I found there exists an earlier explanation for this project, someone have done 
 
 Enjoy, if you find this useful, that will make me happy.
 
-## **Version**
+## **Release_note**
 
 Version 1.0: Did the basic sqrt calculation for a 4-digit integer, and the output is also a 2-digit integer.
 
 Version 1.1: Expand the calculation to all integers, the output is still integer.
 
-version 1.2: Expand the output to self-define-digit float number.
+Version 1.2: Expand the output to self-define-digit float number.
+
+Version 1.3: Expand the parameter to fraction number, partly fixed the `9` vulnerble error, removed the self-define digit function. 
