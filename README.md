@@ -17,4 +17,6 @@ Version 1.1: Expand the calculation to all integers, the output is still integer
 
 Version 1.2: Expand the output to self-define-digit float number.
 
-Version 1.3: Expand the parameter to fraction number, partly fixed the `9` vulnerble error, removed the self-define digit function. 
+Version 1.3: Expand the parameter to fraction number, partly fixed the `9` vulnerable error, removed the self-define digit function. 
+
+Version 1.4: Expand the parameter to all real numbers, wholy fixed the `9` vulnerable error.
