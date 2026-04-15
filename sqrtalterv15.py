@@ -1,3 +1,4 @@
+# This is a program to test whether the sqrt alternative algorithm works well or not.
 # Version 1.5, fixed one fatal vulnerbilities when calculating odd digit fraction.
 
 a = int(input("Input the integer part:"))
