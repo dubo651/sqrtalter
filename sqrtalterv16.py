@@ -80,7 +80,7 @@ def ansarec(arecstr):
     if len(arecstr) % 2 == 0:
         for i in range(1, int(ansfr_len) + 1):
             rec_var = str(arecstr[2*i - 2]) + str(arecstr[2*i - 1])
-            rem = rem + rec_var
+            rem = str(rem) + str(rec_var)
             if int(str(2*int(ansstr)) + str(1)) > int(rem):
                 ansstr = ansstr + str(0)
                 rem = rem
